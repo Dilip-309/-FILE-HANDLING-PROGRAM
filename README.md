@@ -5,7 +5,7 @@
 *DOMAIN*: C LANGUAGE
 *DURATION*: 4 WEEKS
 *MENTOR*: NEELA SANTOSH KUMAR
-#Task 1 Description – File Handling Program in C (500+ words)
+#Task 1 Description – File Handling Program in C
 
 The objective of Task 1 is to create a C program that demonstrates the implementation of file handling operations, including creating, writing to, reading from, and appending data to files. This task is an essential introduction to persistent data storage techniques in the C programming language, forming a base for building larger and more complex systems such as record management systems, logs, and data processors.
 
